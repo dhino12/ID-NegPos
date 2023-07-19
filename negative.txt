@@ -3585,3 +3585,11 @@ tidak kuat bayar pajak
 bug
 stuck
 uninstall
+putus
+lag
+lemot
+burik
+busuk
+lambat
+kacau
+lonjak
