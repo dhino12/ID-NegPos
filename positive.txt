@@ -1677,3 +1677,6 @@ amal
 menggemaskan
 boleh juga
 perbaiki
+best
+special
+upspeed
