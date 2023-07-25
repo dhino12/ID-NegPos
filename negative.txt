@@ -3565,6 +3565,7 @@ zina
 zinah
 zionis
 henti
+disconnect
 tidak percaya
 percaya bagaimana
 berhenti bayar
