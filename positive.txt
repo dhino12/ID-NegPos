@@ -1680,3 +1680,4 @@ perbaiki
 best
 special
 upspeed
+terimakasih
